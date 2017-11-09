@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tap_title">salut comment ca va</string>
+    <string name="btn_english">Anglais</string>
+    <string name="btn_bangla">Bangla</string>
+    <string name="btn_french">Français</string>
+</resources>

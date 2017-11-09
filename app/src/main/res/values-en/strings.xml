@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tap_text">Hi How Are you </string>
+    <string name="btn_en">English</string>
+    <string name="btn_bn">Bangla</string>
+    <string name="btn_fr">French</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Multiple LanguageSupport</string>
+
+    <string name="tap_title">Select Any Language</string>
+    <string name="btn_english">English</string>
+    <string name="btn_bangla">Bangla</string>
+    <string name="btn_french">French</string>
+</resources>
